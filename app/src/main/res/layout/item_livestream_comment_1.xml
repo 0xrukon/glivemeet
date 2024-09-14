@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <data>
+
+    </data>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_20dp"
+        android:backgroundTint="#26000000">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginBottom="10dp"
+            android:fontFamily="@font/amidum"
+            android:text="Welcome to join the live. Any content related to porn, violence, gambling,illegal dealing will be banned."
+            android:textColor="#39FFC0"
+            android:textSize="14sp" />
+
+    </RelativeLayout>
+
+</layout>

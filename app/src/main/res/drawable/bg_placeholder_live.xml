@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <solid android:color="#222328" />
+        </shape>
+    </item>
+    <item
+        android:bottom="100dp"
+        android:drawable="@drawable/placeholder_live"
+        android:gravity="center"
+        android:left="100dp"
+        android:right="100dp"
+        android:top="100dp" />
+</layer-list>

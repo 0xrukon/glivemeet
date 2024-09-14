@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "526338715150",
+    "project_id": "g-live-meet",
+    "storage_bucket": "g-live-meet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526338715150:android:4461adef40954138bb165f",
+        "android_client_info": {
+          "package_name": "com.glive.meet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526338715150-o0jnchnoci87ost90d6iop4tdjo8vg7e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.glive.meet",
+            "certificate_hash": "11ce722e31276e16eb5bf1ce1b76cdd487e1931a"
+          }
+        },
+        {
+          "client_id": "526338715150-5os4d3jv8v3ikkvvmh6kuuni8abs444l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYzuuXqyA016thUIVViH5S2Aq3b9t1jJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526338715150-5os4d3jv8v3ikkvvmh6kuuni8abs444l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
